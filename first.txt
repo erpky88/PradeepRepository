@@ -1,3 +1,29 @@
 this is my first Github file
 this is my second github file
-this is my second github command
+this is my third github command
+$ cd
+$ cd /c
+$ ls
+$ cd git/
+$ cd filename / as(git_demo)
+$ git config --global use.UserID(erpky88) "PRADEEP KUMAR"
+$ git config --global use.email "erpky88@gmail.com"
+$ go to the Repository file and copy the URL of clone/download and paste in command promt line as
+($ git clone https://github.com/erpky88/userID/erpky88/PradeepRepository.git)
+$ ls
+filename/(github.com)
+$ cd filename/(PradeepRepository/)
+$ ls 
+LICENSE README.md
+$ ls
+Filename (in system) LICENSE README.md
+$ git add <file name same as in system> i.e. first.txt
+$ git status 
+*/---------------
+-----------------
+----------------/*
+$ git commit -m "first commit" <file name>
+$ git push _u origin master
+// file saved in github.com
+
+
